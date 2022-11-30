@@ -125,3 +125,4 @@ _GLOBAL__sub_I_main:
 	.linkonce	discard
 .refptr._ZSt4cout:
 	.quad	_ZSt4cout
+	
